@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_wellness_portfolio=self.webpackChunkmy_wellness_portfolio||[]).push([[235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
